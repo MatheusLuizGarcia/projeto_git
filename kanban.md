@@ -4,11 +4,11 @@
 
 Kanban é um sistema visual de gestão de trabalho, que busca conduzir cada tarefa por um fluxo predefinido de trabalho. Em geral, o conceito de Kanban pode ser definido pelos seguintes itens:
 
-    O sistema visual: um processo, definido em um quadro com colunas de separação, que permite dividir o trabalho em segmentos ou pelo seu status, fixando cada item em um cartão e colocando em uma coluna apropriada para indicar onde ele está em todo o fluxo de trabalho. 
+ **O sistema visual:** um processo, definido em um quadro com colunas de separação, que permite dividir o trabalho em segmentos ou pelo seu status, fixando cada item em um cartão e colocando em uma coluna apropriada para indicar onde ele está em todo o fluxo de trabalho. 
 
-    Os cartões: que descrevem o trabalho real que transita por este processo.
+  **Os cartões:** que descrevem o trabalho real que transita por este processo.
 
-    A limitação do trabalho em andamento: que permite atribuir os limites de quantos itens podem estar em andamento em cada segmento ou estado do fluxo de trabalho.
+**A limitação do trabalho em andamento:** que permite atribuir os limites de quantos itens podem estar em andamento em cada segmento ou estado do fluxo de trabalho.
 
 
 Ou seja, o Kanban é um fluxo de trabalho que busca indicar (e limitar) o trabalho em andamento — ou WIP, Work In Progress. O Kanban pode ser considerado também como uma metodologia ágil exatamente por ter o objetivo de evitar a procrastinação e render mais no dia a dia. Isso acontece porque todo o sistema é pautado  de uma forma organizada para tornar  o workflow mais produtivo.
@@ -46,21 +46,21 @@ Ao seguir seus princípios, é possível melhorar seu fluxo de trabalho, aumenta
 
 Para entender um pouco melhor sobre o método, vamos te mostrar seus quatro pilares básicos:
 
-    Comece com aquilo que você está fazendo agora: em vez da disrupção, a evolução, lembra? No Kanban, mudanças em sua configuração atual de trabalho não são recomendadas.
+_* Comece com aquilo que você está fazendo agora: em vez da disrupção, a evolução, lembra? No Kanban, mudanças em sua configuração atual de trabalho não são recomendadas.*_
 
 O intuito é corrigir o processo aos poucos, começando pela sua organização. O fluxo de trabalho a ser considerado deve ser o atual, evitando transformações que impactam a produtividade.
 
-    Busque mudanças incrementais e evolutivas: esqueça os radicalismos.
+_*Busque mudanças incrementais e evolutivas: esqueça os radicalismos.*_
 
 Com o Kanban, sua empresa deve se adequar através de pequenas e pontuais mudanças, evitando atritos dentro da equipe — já acostumada a um fluxo.
 
-    Respeite as responsabilidades e cargos atuais: com o Kanban não há exigência de mudanças organizacionais.
+_*Respeite as responsabilidades e cargos atuais: com o Kanban não há exigência de mudanças organizacionais.*_
 
 Ou seja, colaboradores que entregam bem, dentro dos conformes, continuam em suas funções.
 
 O objetivo é implementar, colaborativamente, as alterações, sem que haja aquele “medo” que costuma existir antes de mudanças na empresa.
 
-    Incentive atos de liderança: lembra que falamos de colaboração?
+*_Incentive atos de liderança: lembra que falamos de colaboração?_*
 
 No Kanban, a melhoria contínua é uma missão de todos, por isso deve-se incentivar a participação ativa, inclusive com atos de liderança, de todos os colaboradores, não apenas de gerentes.
 
@@ -70,7 +70,7 @@ Isso se reflete bem quando pensamos que o Kanban prega a autonomia do time e do 
 
 Dessa forma, ao utilizar o Kanban, é possível identificar gargalos potenciais em seu processo.
 
-Ao corrigi-los, você otimiza o fluxo, reduz custos, maximiza a velocidade de entregas  e aumenta o rendimento ideal.
+**Ao corrigi-los, você otimiza o fluxo, reduz custos, maximiza a velocidade de entregas  e aumenta o rendimento ideal.**
 
 ## Como a metodologia Kanban funciona na prática?
 
@@ -92,15 +92,18 @@ Como falamos, vai de acordo com seu fluxo de trabalho.
 É comum, por exemplo, possuir uma coluna (geralmente a primeira, à esquerda) de backlog, com cartões de tarefas que devem ser feitas, mas não são urgentes, ou que deverão ser acionadas apenas no futuro, ou mesmo que demandem aprovações.
 
 Outra coluna comum é a de revisão ou aprovação do que foi feito internamente. Geralmente, é posicionada logo após a coluna “To Do”.
-To do: tarefas a serem feitas
+
+**To do:** tarefas a serem feitas
 
 Costuma ser uma das primeiras colunas à esquerda e contém os cartões das tarefas que devem ser feitas na sequência. Essa divisão costuma ser chamada de Backlog, e precisa ser gerenciada de maneira estratégica de acordo com a metodologia de trabalho.
 
 Ou seja, assim que uma tarefa sair da coluna seguinte (Doing), o primeiro cartão na coluna To Do é movido para seu lugar.
-Doing: tarefas sendo executadas
+
+**Doing:** tarefas sendo executadas
 
 Nesta coluna, estão os cartões que o time ou colaborador está se dedicando no momento. Por ser um processo de entrega contínua, assim que um cartão sai, outro entra.
-Done: tarefas concluídas
+
+**Done:** tarefas concluídas
 
 Se o cartão está nessa coluna, pode respirar mais aliviado: a tarefa foi concluída! O objetivo é arrastar todos os cartões para cá com máxima agilidade.
 
